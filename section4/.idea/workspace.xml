@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d96d8bfb-c111-48f4-885d-490a22de288e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../SWA/lab10/lab10-part2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/constants/AccountsConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/controller/AccountsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/dto/AccountsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/dto/CustomerDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/dto/ErrorResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/dto/ResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/entity/Accounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/entity/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/entity/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/exception/CustomerAlreadyExistsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/exception/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/mapper/AccountsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/mapper/CustomerMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/repository/AccountsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/service/IAccountsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accounts/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson4SpringMongoDemo/src/main/java/customers/StudentApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson4SpringMongoDemo/src/main/java/customers/domain/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson4SpringMongoDemo/src/main/java/customers/domain/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson4SpringMongoDemo/src/main/java/customers/repository/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/EnterpriseServiceBus/src/main/java/esb/CustomGateway.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/EnterpriseServiceBus/src/main/java/esb/ShipFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/EnterpriseServiceBus/src/main/java/esb/ShipRouter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/EnterpriseServiceBus/src/main/java/esb/ShippingInternationalActivator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/EnterpriseServiceBus/src/main/java/esb/ShippingNextDayActivator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/OrderService/src/main/java/esb/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/ShippingService/src/main/java/esb/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/ShippingServiceInternational/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/ShippingServiceInternational/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/ShippingServiceInternational/src/main/java/esb/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/ShippingServiceInternational/src/main/java/esb/ShippingApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/ShippingServiceInternational/src/main/java/esb/ShippingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/ShippingServiceInternational/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/ShippingServiceNextDay/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/ShippingServiceNextDay/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/ShippingServiceNextDay/src/main/java/esb/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/ShippingServiceNextDay/src/main/java/esb/ShippingApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/ShippingServiceNextDay/src/main/java/esb/ShippingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/ShippingServiceNextDay/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SWA/Lesson6ESBDemo/WarehouseService/src/main/java/esb/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/jwt/StockService/ProductService/src/main/java/com/example/productservice/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/jwt/StockService/ProductService/src/main/java/com/example/productservice/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/jwt/StockService/src/main/java/com/example/stockservice/StockController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/jwt/demo/src/main/java/com/example/demo/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/jwt/demo/src/main/java/com/example/demo/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/jwt/demo1/src/main/java/com/example/demo/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/jwt/demo1/src/main/java/com/example/demo/controller.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2p5aSpKP5OnbyyhhkexSMsXypxu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AccountsApplication">
+    <configuration name="AccountsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="accounts" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.accounts.AccountsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="accounts" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.accounts.AccountsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cards" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.cards.CardsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="cards" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.cards.CardsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoansApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="loans" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.loans.LoansApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoansApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="loans" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.loans.LoansApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d96d8bfb-c111-48f4-885d-490a22de288e" name="Changes" comment="" />
+      <created>1732058394829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732058394829</updated>
+      <workItem from="1732058396265" duration="3569000" />
+      <workItem from="1732110580253" duration="1387000" />
+      <workItem from="1732122447002" duration="1990000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
