@@ -6,26 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d96d8bfb-c111-48f4-885d-490a22de288e" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../../SWA/lab10/lab10-part2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/constants/AccountsConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/controller/AccountsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/dto/AccountsDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/dto/CustomerDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/dto/ErrorResponseDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/dto/ResponseDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/entity/Accounts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/entity/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/entity/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/exception/CustomerAlreadyExistsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/exception/ResourceNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/mapper/AccountsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/mapper/CustomerMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/repository/AccountsRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/repository/CustomerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/java/com/eazybytes/accounts/service/IAccountsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section2/accounts/src/main/resources/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../SWA/Lesson4SpringMongoDemo/src/main/java/customers/StudentApplication.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../SWA/Lesson4SpringMongoDemo/src/main/java/customers/domain/Address.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../SWA/Lesson4SpringMongoDemo/src/main/java/customers/domain/Student.java" beforeDir="false" />
@@ -64,7 +44,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -159,7 +139,7 @@
       <updated>1732058394829</updated>
       <workItem from="1732058396265" duration="3569000" />
       <workItem from="1732110580253" duration="1387000" />
-      <workItem from="1732122447002" duration="1990000" />
+      <workItem from="1732122447002" duration="2593000" />
     </task>
     <servers />
   </component>
