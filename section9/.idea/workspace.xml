@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18d946c2-bac7-4811-8d9d-52b1a9619d22" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../section8/accounts/src/main/java/com/eazybytes/accounts/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section8/accounts/src/main/java/com/eazybytes/accounts/dto/CardsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section8/accounts/src/main/java/com/eazybytes/accounts/dto/CustomerDetailsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section8/accounts/src/main/java/com/eazybytes/accounts/dto/LoansDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section8/accounts/src/main/java/com/eazybytes/accounts/service/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section8/accounts/src/main/java/com/eazybytes/accounts/service/client/CardsFeignClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section8/accounts/src/main/java/com/eazybytes/accounts/service/client/LoansFeignClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section8/accounts/src/main/java/com/eazybytes/accounts/service/impl/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section8/docker-compose/prod/common-config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section8/docker-compose/prod/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section8/docker-compose/qa/common-config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../section8/docker-compose/qa/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayserver/src/main/java/com/eazybytes/gatewayserver/filters/FilterUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayserver/src/main/java/com/eazybytes/gatewayserver/filters/RequestTraceFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatewayserver/src/main/java/com/eazybytes/gatewayserver/filters/ResponseTraceFilter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2pOwe2dG66jkvqMXsez2TKme4m7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Projects/microservice/section9/gatewayserver/src/main/java/com/eazybytes/gatewayserver/filters",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\microservice\section9\gatewayserver\src\main\java\com\eazybytes\gatewayserver\filters" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GatewayserverApplication">
+    <configuration name="AccountsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="accounts" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.accounts.AccountsApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eazybytes.accounts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CardsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cards" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.cards.CardsApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eazybytes.cards.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="configserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.configserver.ConfigserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eurekaserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.eurekaserver.EurekaserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="gatewayserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.gatewayserver.GatewayserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoansApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="loans" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.loans.LoansApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eazybytes.loans.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.LoansApplication" />
+        <item itemvalue="Spring Boot.CardsApplication" />
+        <item itemvalue="Spring Boot.AccountsApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18d946c2-bac7-4811-8d9d-52b1a9619d22" name="Changes" comment="" />
+      <created>1732650524175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732650524175</updated>
+      <workItem from="1732650525820" duration="5457000" />
+      <workItem from="1732722638786" duration="2573000" />
+      <workItem from="1732729142969" duration="312000" />
+      <workItem from="1732732586202" duration="3294000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5e2cc26-9d7e-4c06-945b-6cc17e4fdd09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../section6/v1-springboot/accounts/src/main/resources/application_prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section6/v1-springboot/accounts/src/main/resources/application_qa.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section6/v2-spring-boot-config/accounts/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section6/v2-spring-boot-config/cards/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section6/v2-spring-boot-config/configserver/src/main/resources/config/accounts-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section6/v2-spring-boot-config/configserver/src/main/resources/config/accounts-qa.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section6/v2-spring-boot-config/configserver/src/main/resources/config/accounts.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section6/v2-spring-boot-config/configserver/src/main/resources/config/cards-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section6/v2-spring-boot-config/configserver/src/main/resources/config/cards-qa.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section6/v2-spring-boot-config/configserver/src/main/resources/config/cards.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section6/v2-spring-boot-config/configserver/src/main/resources/config/loans-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section6/v2-spring-boot-config/configserver/src/main/resources/config/loans-qa.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../section6/v2-spring-boot-config/configserver/src/main/resources/config/loans.yml" afterDir="false" />
-    </list>
+    <list default="true" id="e5e2cc26-9d7e-4c06-945b-6cc17e4fdd09" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732306220610</updated>
-      <workItem from="1732306221817" duration="6081000" />
+      <workItem from="1732306221817" duration="7714000" />
     </task>
     <servers />
   </component>
